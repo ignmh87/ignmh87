@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignmh87
+- 👋 Hola, soy @ignmh87
 - 👀 Estoy interesado en aprender distintos lenguajes de programacion.
 - 🌱 Actualmente estoy aprendiendo Vscode, Java, Javascript.
 - 💞️ Estoy buscando colaborar en un proyecto que me haga aprender mas de lo que ya sé.
