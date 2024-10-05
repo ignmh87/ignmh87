@@ -1,7 +1,7 @@
-- 👋 Hola, soy @ignmh87
-- 👀 Estoy interesado en aprender distintos lenguajes de programacion.
-- 🌱 Actualmente estoy aprendiendo Vscode, Java, Javascript.
-- 💞️ Estoy buscando colaborar en un proyecto que me haga aprender mas de lo que ya sé.
+- 👋 Hi, I'm @ignmh87
+- 👀 I'm interested in learning more programming languages.
+- 🌱 I'm currently learning Vscode, Java, Javascript.
+- 💞️ I'm looking to collaborate on a project that will make me learn more than what I already know.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
