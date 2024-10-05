@@ -1,9 +1,13 @@
-<h2> Hey there! I'm Ignacio.</h2>
+<h3> Hey 👋! I'm Ignacio.</h3>
+
+---
 
 - 🔭 I am currently studying a higher degree in Multiplatform Application Development.
 - 👀 I’m looking for a software development internship. 
 - 🌱 I'm currently learning Vscode, Java, HTML5 and JavaScript.
 - 💞️ I'm looking to collaborate on a project that will make me learn more than what I already know.
+
+---
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -25,7 +29,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
+---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
