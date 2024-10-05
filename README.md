@@ -31,6 +31,15 @@
 
 ---
 
+<h3> 💽  &nbsp;Music Production</h3>
+<div display="flex">
+<img src="https://img.shields.io/badge/Ableton Live-%23000000.svg?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FL Studio-%23000000.svg?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cubase-%23000000.svg?&style=for-the-badge" />
+</div>
+
+---
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
