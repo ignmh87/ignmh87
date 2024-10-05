@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Ignacio.</h2>
 
 - 👀 I'm interested in learning more programming languages.
 - 🌱 I'm currently learning Vscode, Java, Javascript.
