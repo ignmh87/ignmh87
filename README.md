@@ -1,4 +1,5 @@
-- 👋 Hi, I'm @ignmh87
+<h2> Hey there! I'm Aditya.</h2>
+
 - 👀 I'm interested in learning more programming languages.
 - 🌱 I'm currently learning Vscode, Java, Javascript.
 - 💞️ I'm looking to collaborate on a project that will make me learn more than what I already know.
