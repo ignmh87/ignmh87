@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
-<a href="ignacio.mh87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignacio.mh87@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="ignacio.mh87@gmail.com"><img alt="Email" src="https://www.google.com/intl/es/gmail/about//Email-ignacio.mh87@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <!---
 ignmh87/ignmh87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
