@@ -36,13 +36,16 @@
 <a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ignacio.mh87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignacio.mh87@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+---
+
 ### Gaming:
 <div display="flex">
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blizzard-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Diablo IV-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Age Of Empires IV-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+  <img src="https://img.shields.io/badge/counter%20strike 2-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
 
 <!---
