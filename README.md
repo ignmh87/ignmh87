@@ -2,7 +2,7 @@
 
 - 🔭 I am currently studying a higher degree in Multiplatform Application Development.
 - 👀 I’m looking for a software development internship. 
-- 🌱 I'm currently learning Vscode, Java and Javascript.
+- 🌱 I'm currently learning Vscode, Java and HTML5.
 - 💞️ I'm looking to collaborate on a project that will make me learn more than what I already know.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
