@@ -1,15 +1,26 @@
-<h3> Hey 👋! I'm Ignacio.</h3>
+<h3> Hola 👋! Soy Ignacio.</h3>
 
 ---
 
-- 📚 I'm currently studying a higher degree in Multiplatform Application Development.
-- 👀 I’m looking for a software development internship. 
-- 🌱 I'm currently learning Vscode, Java, HTML5 and JavaScript.
-- 💼 I'm looking to collaborate on a project that will make me learn more than what I already know.
+- 💼 Formandome en técnico superior en Desarrollo de Aplicaciones Web / Multiplataforma.
+- 📚 Centro Integral de Formación Profesional a Distancia "La Conservera".
+- 🌱 Estoy cursando asignaturas como: Entornos de Desarrollo - Programación - Base de datos.
+- 👀 Busco unas prácticas de desarrollo de software.
 
 ---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Stack tecnologico del curso</h3>
+
+<h3> Frameworks: </h3>
+
+**React Node.js  Express**
+
+<h3> Bases de datos: </h3>
+- MongoDB
+- Docker
+
+---
+<h3> 🛠 &nbsp;Stack Tecnologico</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -18,12 +29,14 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  
 - ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-Git-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 - 🔧 &nbsp;
@@ -40,12 +53,6 @@
 
 ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ignacio.mh87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignacio.mh87@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
----
 
 ### Gaming:
 <div display="flex">
@@ -56,6 +63,15 @@
   <img src="https://img.shields.io/badge/Age Of Empires IV-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/counter%20strike 2-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
+
+---
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ignacio.mh87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ignacio.mh87@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+---
 
 <!---
 ignmh87/ignmh87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
