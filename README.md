@@ -1,4 +1,4 @@
-<h3> Hola 👋! Soy Ignacio.</h3>
+<h1> Hola 👋! Soy Ignacio.</h1>
 
 ---
 
